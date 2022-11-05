@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body
+{
+    background-color: black ;
+    color: #01bdab;
+    display: grid;
+    place-items: center;
+    margin-top: 4rem;
+    font-size: 50px;
+}
